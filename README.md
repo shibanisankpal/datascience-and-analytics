@@ -10,7 +10,7 @@ Prediction using Supervised ML
 
 K-means clustering
 
-● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+● From the‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 ● Dataset : https://bit.ly/3kXTdox
 
@@ -33,4 +33,10 @@ Exploratory Data Analysis-Terrorism
 ● What all security issues and insights you can derive by EDA?
 
 ● Dataset: https://bit.ly/2TK5Xn5
+
+Exploratory Data Analysis(Sales)
+
+● Exploratory Data Analysis on 'Sample Superstore'
+
+● Dataset: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
