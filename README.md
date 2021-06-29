@@ -1,5 +1,5 @@
 # data science and analytics
-Prediction using Supervised ML
+## Prediction using Supervised ML
 
 ● Predict the percentage of an student based on the no. of study hours.
 
@@ -8,16 +8,14 @@ Prediction using Supervised ML
 ● This is a simple linear regression as it involves just 2 variables. ● Dataset : http://bit.ly/w-data
 
 
-K-means clustering
+## K-means clustering
 
 ● From the‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 ● Dataset : https://bit.ly/3kXTdox
 
 
-Prediction using Decision Tree Algorithm
-
-Create the Decision Tree classifier and visualize it graphically.
+ ## Decision Tree Algorithm
 
 ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
@@ -25,11 +23,11 @@ Create the Decision Tree classifier and visualize it graphically.
 
 
 
-Logistic Regression:
+## Logistic Regression:
 
 Logistic Regression on digits dataset which is one of the datasets sklearn comes with.Confusion matrix is used to show the performance of the model by comparing test data with predictions.
 
-Exploratory Data Analysis(Sales)
+## Exploratory Data Analysis(Sales)
 
 ● Exploratory Data Analysis on 'Sample Superstore'
 
