@@ -34,3 +34,6 @@ Logistic Regression on digits dataset which is one of the datasets sklearn comes
 ● Dataset: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
 ## Time Series Analysis
+● Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data.
+
+● Dataset: https://community.tableau.com/docs/DOC-1236
