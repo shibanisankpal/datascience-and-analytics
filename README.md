@@ -15,7 +15,7 @@
 ● Dataset : https://bit.ly/3kXTdox
 
 
- ## Decision Tree Algorithm
+ ## Decision Tree Algorithm on Iris Dataset
 
 ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
@@ -33,3 +33,4 @@ Logistic Regression on digits dataset which is one of the datasets sklearn comes
 
 ● Dataset: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
+## Time Series Analysis
