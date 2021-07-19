@@ -25,7 +25,8 @@
 
 ## Logistic Regression:
 
-Logistic Regression on digits dataset which is one of the datasets sklearn comes with.Confusion matrix is used to show the performance of the model by comparing test data with predictions.
+● Logistic Regression on digits dataset which is one of the datasets sklearn comes with.
+● Confusion matrix is used to show the performance of the model by comparing test data with predictions.
 
 ## Exploratory Data Analysis(Sales)
 
@@ -39,22 +40,22 @@ Logistic Regression on digits dataset which is one of the datasets sklearn comes
 ● Dataset: https://community.tableau.com/docs/DOC-1236
 
 ## Linear vs Lasso vs Ridge
-Comparing different types of regression
+● Comparing different types of regression
 
 ## Performing Analysis of Meteoroligical data
-Observing variation of Apparent temperature and humidity over time.
+● Observing variation of Apparent temperature and humidity over time.
 
-Dataset:https://www.kaggle.com/muthuj7/weather-dataset
+● Dataset:https://www.kaggle.com/muthuj7/weather-dataset
 
 ## Market Basket Analysis using Apriori Algorithm
-Using Apriori Algorithm to perform market basket analysis for a groceries dataset.
+● Using Apriori Algorithm to perform market basket analysis for a groceries dataset.
 
-Dataset:https://www.kaggle.com/heeraldedhia/groceries-dataset
+● Dataset:https://www.kaggle.com/heeraldedhia/groceries-dataset
 
 ## Credit card fraud detection
-Using logistic regression to predict fraudulent transactions.
+● Using logistic regression to predict fraudulent transactions.
 
-Dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
+● Dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
 
