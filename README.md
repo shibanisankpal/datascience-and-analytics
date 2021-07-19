@@ -45,11 +45,11 @@ Comparing different types of regression
 Observing variation of Apparent temperature and humidity over time.
 Dataset:https://www.kaggle.com/muthuj7/weather-dataset
 
-##Market Basket Analysis using Apriori Algorithm
+## Market Basket Analysis using Apriori Algorithm
 Using Apriori Algorithm to perform market basket analysis for a groceries dataset.
 Dataset:https://www.kaggle.com/heeraldedhia/groceries-dataset
 
-##Credit card fraud detection
+## Credit card fraud detection
 Using logistic regression to predict fraudulent transactions.
 Dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
 
