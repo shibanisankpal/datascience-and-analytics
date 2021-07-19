@@ -26,6 +26,7 @@
 ## Logistic Regression:
 
 ● Logistic Regression on digits dataset which is one of the datasets sklearn comes with.
+
 ● Confusion matrix is used to show the performance of the model by comparing test data with predictions.
 
 ## Exploratory Data Analysis(Sales)
