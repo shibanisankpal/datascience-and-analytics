@@ -61,7 +61,7 @@
 ● Dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
-## Capstone story presentation - IBM Data Analyst Capstone
+## Capstone story presentation - IBM Data Analyst Professional Certificate Capstone
 Presentation for IBM Data Analyst Capstone Project from Coursera. This presentation was made for illustrating the insights and findings from the datasets provided in the course.The dashboards in the presentation are made using IBM Cognos Analytics.
 
 
