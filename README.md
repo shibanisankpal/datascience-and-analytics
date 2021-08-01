@@ -62,7 +62,7 @@
 
 
 ## Capstone story presentation - IBM Data Analyst Capstone
-●  Presentation for IBM Data Analyst Capstone Project from Coursera. This presentation was made for illustrating the insights and findings from the datasets provided in the course.The dashboards in the presentation are made using IBM Cognos Analytics.
+Presentation for IBM Data Analyst Capstone Project from Coursera. This presentation was made for illustrating the insights and findings from the datasets provided in the course.The dashboards in the presentation are made using IBM Cognos Analytics.
 
 
 
