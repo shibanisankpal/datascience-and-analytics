@@ -60,6 +60,11 @@
 
 ● Dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+# KNN for diabetes prediction
+● Using KNN Classifier to perform predictions on diabetes dataset
+● Dataset:https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
+
+
 
 ## Capstone story presentation - IBM Data Analyst Professional Certificate Capstone
 Presentation for IBM Data Analyst Capstone Project from Coursera. This presentation was made for illustrating the insights and findings from the datasets provided in the course.The dashboards in the presentation are made using IBM Cognos Analytics.
