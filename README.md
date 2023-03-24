@@ -64,6 +64,11 @@
 ● Using KNN Classifier to perform predictions on diabetes dataset
 ● Dataset:https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
 
+##Simple sentiment analysis using NLTK
+● Using Sentiment Intensity Analyzer in the NLTK library for sentiment analysis
+
+
+
 
 
 
