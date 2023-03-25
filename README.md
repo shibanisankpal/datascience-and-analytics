@@ -67,8 +67,10 @@
 ##Simple sentiment analysis using NLTK
 ● Using Sentiment Intensity Analyzer in the NLTK library for sentiment analysis
 
+##Text summarization
 
-
+##Language Detection
+● Language Detection using langdetect library with two examples: French and Hindi
 
 
 
