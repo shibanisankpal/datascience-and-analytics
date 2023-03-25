@@ -64,13 +64,16 @@
 ● Using KNN Classifier to perform predictions on diabetes dataset
 ● Dataset:https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
 
-##Simple sentiment analysis using NLTK
+## Simple sentiment analysis using NLTK
 ● Using Sentiment Intensity Analyzer in the NLTK library for sentiment analysis
 
-##Text summarization
+## Text summarization
 
-##Language Detection
+## Language Detection
 ● Language Detection using langdetect library with two examples: French and Hindi
+
+## Language Translation using Transformers library
+● Language Translation using langdetect library with two examples: French and German
 
 
 
